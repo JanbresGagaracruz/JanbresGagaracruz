@@ -4,6 +4,4 @@
 
 ---
 
-### ⚡ Developer Philosophy
-
 > “Code with coffee”
