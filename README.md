@@ -36,7 +36,6 @@ I'm just bored.
 - Mongoose
 - MySQL/SQL
 - Prisma
-- 
 
 ### ⚙️ Tools & DevOps
 - Git & GitHub
